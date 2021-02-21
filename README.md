@@ -1,1 +1,1 @@
-# kz.aitu.oop.practice.assignment4
+Hello world
